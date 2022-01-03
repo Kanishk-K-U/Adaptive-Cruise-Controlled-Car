@@ -33,4 +33,4 @@ Wheels and chassis
 Video Link- https://drive.google.com/file/d/1aOC2wm0Eh_NmdmGHi0GgtGcADDAvWSrU/view?usp=sharing
 
 
-Application Proposed https://github.com/Kanishk-K-U/Adaptive-Cruise-Controlled-Car/tree/main/Controller%20APP
+Application Proposed- https://github.com/Kanishk-K-U/Adaptive-Cruise-Controlled-Car/tree/main/Controller%20APP
