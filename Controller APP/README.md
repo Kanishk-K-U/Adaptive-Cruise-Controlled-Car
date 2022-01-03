@@ -6,7 +6,7 @@ In this project, made an Adaptive Cruise Controlled Car using Arduino Mega, Ultr
 
 <p >
   <div align="center" >
- <img width="426.67" height="240" src="https://github.com/Kanishk-K-U/Adaptive-Cruise-Controlled-Car/blob/main/1.png">
+ <img width="426.67" height="240" src="https://github.com/Kanishk-K-U/Adaptive-Cruise-Controlled-Car/blob/main/1">
     </div>
 </p>
 
