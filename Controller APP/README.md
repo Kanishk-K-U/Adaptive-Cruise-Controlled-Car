@@ -6,7 +6,7 @@ In this project, made an Controller Car using Java to drive the car remotely. Th
 
 <p >
   <div align="center" >
- <img width="426.67" height="240" src="https://github.com/Kanishk-K-U/Adaptive-Cruise-Controlled-Car/blob/main/Controller%20APP/app.png">
+ <img  src="https://github.com/Kanishk-K-U/Adaptive-Cruise-Controlled-Car/blob/main/Controller%20APP/app.png">
     </div>
 </p>
 
