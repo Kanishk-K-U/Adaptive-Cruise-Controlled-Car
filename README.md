@@ -25,4 +25,9 @@ Wheels and chassis
 </p>
 
 # Working of the ACC Car
-
+<p >
+  <div align="center" >
+ <img width="426.67" height="240" src="https://github.com/Kanishk-K-U/Adaptive-Cruise-Controlled-Car/blob/main/1.JPG">
+    </div>
+</p>
+Video Link- https://drive.google.com/file/d/1aOC2wm0Eh_NmdmGHi0GgtGcADDAvWSrU/view?usp=sharing
